@@ -1,0 +1,39 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/octicons/2.2.0/octicons.min.css");
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500,700,400italic&subset=latin,latin-ext);
+
+img {
+    max-width: 100%;
+}
+
+body {
+    background: #f4f4f4 !important;
+    font-family: 'Ubuntu', sans-serif !important;
+    padding-bottom: 2em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 800 !important;
+}
+
+.contact-info {
+    color: #696969;
+}
+
+.content {
+  background: #fff;
+  padding: 5em 2em;
+  margin: 3em 0;
+}
+
+.no-margin {
+    margin-top: 0;
+}
+
+a {
+    color: #BA6B57 !important;
+    font-weight: 700;
+}
+
+.col-md-2 > i.fa, .col-md-2 > span.octicon {
+    font-size: 2em;
+}
