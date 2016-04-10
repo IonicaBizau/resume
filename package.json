@@ -1,0 +1,29 @@
+{
+  "name": "ionicabizau-resume",
+  "version": "1.0.0",
+  "description": "My resume.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "ionicabizau"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/resume/issues"
+  },
+  "blah": {
+      "title": "My resume",
+      "ex_img": "http://i.imgur.com/zZcG4PM.png",
+      "ex_url": "https://ionicabizau.github.io/resume/"
+
+  },
+  "homepage": "https://github.com/IonicaBizau/resume#readme"
+}
