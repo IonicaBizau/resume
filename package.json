@@ -1,6 +1,6 @@
 {
   "name": "ionicabizau-resume",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "My resume.",
   "main": "lib/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "resume",
     "ionicabizau"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/resume/issues"
@@ -29,12 +29,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
