@@ -1,6 +1,6 @@
 {
   "name": "ionicabizau-resume",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "My resume.",
   "main": "lib/index.js",
   "scripts": {
@@ -35,6 +35,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
