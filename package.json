@@ -1,6 +1,6 @@
 {
   "name": "ionicabizau-resume",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "My resume.",
   "main": "lib/index.js",
   "scripts": {
