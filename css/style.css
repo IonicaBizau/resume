@@ -1,5 +1,5 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/octicons/2.2.0/octicons.min.css");
-@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500,700,400italic&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,500,700,400italic&subset=latin,latin-ext);
 
 img {
     max-width: 100%;
@@ -36,4 +36,38 @@ a {
 
 .col-md-2 > i.fa, .col-md-2 > span.octicon {
     font-size: 2em;
+}
+
+.profile-photo {
+    width: 100%;
+    max-width: 160px;
+}
+
+.job-heading {
+    margin-bottom: 0;
+}
+
+.job-heading em {
+    display: block;
+    color: #696969;
+}
+
+.language-chart {
+    display: block;
+    width: 100%;
+    max-width: 600px;
+    height: 590px;
+    border: 0;
+}
+
+@media (max-width: 991px) {
+    .content {
+        padding: 2em;
+    }
+
+    .col-md-2 > i.fa, .col-md-2 > span.octicon {
+        float: none !important;
+        display: block;
+        margin-bottom: 0.5em;
+    }
 }
